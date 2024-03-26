@@ -20,9 +20,8 @@ I'm a Computer Science student at AGH University of Krakow. Welcome to my GitHub
 
 ### How to reach me 📫
 
-- [Twitter](https://twitter.com/your_username)
-- [LinkedIn](https://www.linkedin.com/in/your_username/)
-- [Portfolio](https://yourportfolio.com)
+- [Linkedin](https://www.linkedin.com/in/jakub-fr%C4%85czek-758197252/)
+- [Youtube](https://www.youtube.com/channel/UC42I4utO49ODgVkM5KtdtQQ)
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's collaborate and create amazing things together! 🌟
 
