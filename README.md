@@ -1,4 +1,4 @@
-## Hello! I'm Jakub Frączek! 👋
+## Hello! 👋
 
 I'm a Computer Science student at AGH University of Krakow. Welcome to my GitHub page! 🚀
 
