@@ -21,7 +21,7 @@ I'm a Computer Science student at AGH University of Krakow. Welcome to my GitHub
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
 
-### I'm want to learn 🌟
+### I want to learn 🌟
 
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=ffffff)
 
