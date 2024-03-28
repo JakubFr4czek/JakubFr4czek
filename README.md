@@ -16,6 +16,7 @@ I'm a Computer Science student at AGH University of Krakow. Welcome to my GitHub
 ![Makefile](https://img.shields.io/badge/-Makefile-003366?style=flat-square&logo=gnu-make&logoColor=ffffff)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=ffffff)
 
 ### I'm Currently Learning 🌱
 
