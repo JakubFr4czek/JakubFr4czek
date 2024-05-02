@@ -24,6 +24,9 @@ I'm a Computer Science student at AGH University of Krakow. Welcome to my GitHub
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
 
+### Video presentation of a game I made using Unity Engine
+ - [Youtube](https://www.youtube.com/watch?v=HnFu3wmb70Y)
+
 ### How to reach me 📫
 
 - [Linkedin](https://www.linkedin.com/in/jakub-fr%C4%85czek-758197252/)
