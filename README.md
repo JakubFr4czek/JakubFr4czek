@@ -25,7 +25,7 @@ I'm a Computer Science student at AGH University of Krakow. Welcome to my GitHub
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
 
 ### Video presentation of a game I made using Unity Engine
- - [Youtube](https://www.youtube.com/watch?v=HnFu3wmb70Y)
+ - [Youtube Video](https://www.youtube.com/watch?v=HnFu3wmb70Y)
 
 ### How to reach me 📫
 
