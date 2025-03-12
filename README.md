@@ -30,13 +30,18 @@ technologies and tool I've worked with.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=ffffff)
 
 
-### Video presentation of a game I made using Unity Engine
+### Game I made using Unity Engine
  - [Youtube video](https://www.youtube.com/watch?v=HnFu3wmb70Y)
+
+### Games I made using Godot Engine
+ - https://fraczek.itch.io/crazy-lumberjack
+ - https://fraczek.itch.io/potionist
 
 ### How to reach me 📫
 
 - [Linkedin](https://www.linkedin.com/in/jakub-fr%C4%85czek-758197252/)
 - [Youtube](https://www.youtube.com/channel/UC42I4utO49ODgVkM5KtdtQQ)
+- [Itch.io](https://fraczek.itch.io/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's collaborate and create amazing things together! 🌟
 
