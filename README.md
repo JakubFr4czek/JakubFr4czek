@@ -23,8 +23,8 @@ technologies and tool I've worked with.
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
 
 ### Game Engines
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 
 ### Other technologies
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=ffffff)
