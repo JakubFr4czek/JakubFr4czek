@@ -29,13 +29,12 @@ technologies and tool I've worked with.
 ### Other technologies
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=ffffff)
 
-
 ### Game I made using Unity Engine
  - [Youtube video](https://www.youtube.com/watch?v=HnFu3wmb70Y)
 
 ### Games I made using Godot Engine
- - https://fraczek.itch.io/crazy-lumberjack
- - https://fraczek.itch.io/potionist
+ - [Crazy Lumberjack](https://fraczek.itch.io/crazy-lumberjack)
+ - [Potionist](https://fraczek.itch.io/potionist)
 
 ### How to reach me 📫
 
