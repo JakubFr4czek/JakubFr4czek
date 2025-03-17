@@ -3,6 +3,8 @@
 I'm a Computer Science student at AGH University of Krakow. Welcome to my GitHub page! Below I listed
 technologies and tool I've worked with.
 
+## My tech stack
+
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -16,6 +18,7 @@ technologies and tool I've worked with.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
 ![Makefile](https://img.shields.io/badge/-Makefile-003366?style=flat-square&logo=gnu-make&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 ### IDE's
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
@@ -29,9 +32,9 @@ technologies and tool I've worked with.
 ### Other technologies
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=ffffff)
 
-### Currently learning
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+## Other technologies I worked with
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)
+
 
 ### Game I made using Unity Engine
  - [Youtube video](https://www.youtube.com/watch?v=HnFu3wmb70Y)
