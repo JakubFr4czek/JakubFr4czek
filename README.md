@@ -35,15 +35,14 @@ technologies and tool I've worked with.
 ## Other technologies I worked with
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)
 
-
-### Game I made using Unity Engine
+## Game I made using Unity Engine
  - [Youtube video](https://www.youtube.com/watch?v=HnFu3wmb70Y)
 
-### Games I made using Godot Engine
+## Games I made using Godot Engine
  - [Crazy Lumberjack](https://fraczek.itch.io/crazy-lumberjack)
  - [Potionist](https://fraczek.itch.io/potionist)
 
-### How to reach me 📫
+## How to reach me 📫
 
 - [Linkedin](https://www.linkedin.com/in/jakub-fr%C4%85czek-758197252/)
 - [Youtube](https://www.youtube.com/channel/UC42I4utO49ODgVkM5KtdtQQ)
