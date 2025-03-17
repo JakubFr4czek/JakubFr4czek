@@ -1,7 +1,7 @@
 ## Hello! 👋
 
 I'm a Computer Science student at AGH University of Krakow. Welcome to my GitHub page! Below I listed
-technologies and tool I've worked with.
+technologies and tools I've worked with.
 
 ## My tech stack
 
