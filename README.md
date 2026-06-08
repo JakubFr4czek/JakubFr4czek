@@ -5,7 +5,7 @@ My name is Jakub, a Software Engineer @ Nokia. I recently graduated from AGH Uni
 ## My tech stack
 
 ### Languages
-I primarily work with C, C++ and Python, with some experience in frontend development.
+I primarily work with C, C++ and Python, with some experience in web development.
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
