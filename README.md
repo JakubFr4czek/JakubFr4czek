@@ -23,19 +23,27 @@ Main frameworks I worked with include FastAPI, ReactJS and TailwindCSS.
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 ### Tools
-Developement tools I have a good understanding of and use on regular basis include Git, Yocto Project, Docker, Makefile and Jupyter Notebook.
+Developement tools I have a good understanding of and use on regular basis include Git, Gerrit, Artifactory, Yocto Project, Docker, Makefile and Jupyter Notebook with additionall experience maintaining CI/CD pipelines in Jenkins.
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gerrit](https://img.shields.io/badge/Gerrit-Code_Review-EE0000?style=for-the-badge&logo=gerrit&logoColor=white)
+![Artifactory](https://img.shields.io/badge/Artifactory-Repository-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto_Project-76B900?style=for-the-badge&logo=yocto&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D41617?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Makefile](https://img.shields.io/badge/-Makefile-003366?style=for-the-badge&logo=gnu-make&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Methodologies
+I have experience working in Agile environments, including Scrum and Kanban.
+![Scrum](https://img.shields.io/badge/Scrum-Agile-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-Workflow-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ### AI Tools
 Development tools providing AI assistance that I am familiar with include Github Copilot and Cursor.
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-AI%20Assistant-000000?style=for-the-badge&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-AI%20Editor-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Embedded Systems 
 I have lots of experience working with RaspberryPi as well as Arduino from different projects on a span of many years.
