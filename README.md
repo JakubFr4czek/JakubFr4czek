@@ -23,7 +23,7 @@ Main frameworks I worked with include FastAPI, ReactJS and TailwindCSS.
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 ### Tools
-Developement tools I have a good understanding of and use on regular basis include Git, Gerrit, Artifactory, Yocto Project, Docker, Makefile and Jupyter Notebook with additionall experience maintaining CI/CD pipelines in Jenkins.
+Developement tools I have a good understanding of and use on regular basis include Git, Gerrit, Artifactory, Yocto Project, Docker, Makefile and Jupyter Notebook with additional experience maintaining CI/CD pipelines in Jenkins.
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gerrit](https://img.shields.io/badge/Gerrit-EE0000?style=for-the-badge&logo=gerrit&logoColor=white)
