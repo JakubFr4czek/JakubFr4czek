@@ -23,7 +23,7 @@ Main frameworks I worked with include FastAPI, ReactJS and TailwindCSS.
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 ### Tools
-Developement tools I have a good understanding of and use on regular basis include git, Yocto Project, Docker, Makefile and Jupyter Notebook.
+Developement tools I have a good understanding of and use on regular basis include Git, Yocto Project, Docker, Makefile and Jupyter Notebook.
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto_Project-76B900?style=for-the-badge&logo=yocto&logoColor=white)
@@ -46,8 +46,8 @@ I have lots of experience working with RaspberryPi as well as Arduino from diffe
 #### Projects
 One of the projects that I am particularly proud of is a truck driving simulator called "Ekonomik Roadster" based on Arduino.
 It was built using real parts taken from a BMW E36. You can find more information here:
-![Ekonomik Roadster demonstration](https://www.youtube.com/watch?v=ISzCpdcXRQk)
-![Ekonomik Roadster repository](https://github.com/JakubFr4czek/Roadster)
+ - [Ekonomik Roadster demonstration](https://www.youtube.com/watch?v=ISzCpdcXRQk)
+ - [Ekonomik Roadster repository](https://github.com/JakubFr4czek/Roadster)
 
 ### Game Engines
 For my personal projects I worked with Unity and Godot engines.
