@@ -41,10 +41,16 @@ I have experience working in Agile environments, including Scrum and Kanban.
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ### AI Tools
-Development tools providing AI assistance that I am familiar with include Github Copilot and Cursor.
+Development tools providing AI assistance that I am familiar with include Github Copilot and Cursor. Additionally during developement of my engineering thesis project I gained a lot of experiene with locally hosted Stable Difussion AI models.
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge&logo=stable-diffusion&logoColor=white)
+
+#### Projects
+My engineering thesis consisted of building a application based on Stable Diffusion to accelerate Interior Designers in their work. You can find this project here:
+
+ - [AInterior](https://github.com/gahson/Praca-Inzynierska)
 
 ### Embedded Systems 
 I have lots of experience working with RaspberryPi as well as Arduino from different projects on a span of many years.
