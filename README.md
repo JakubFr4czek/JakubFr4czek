@@ -26,7 +26,7 @@ Main frameworks I worked with include FastAPI, ReactJS and TailwindCSS.
 Developement tools I have a good understanding of and use on regular basis include Git, Gerrit, Artifactory, Yocto Project, Docker, Makefile and Jupyter Notebook with additionall experience maintaining CI/CD pipelines in Jenkins.
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gerrit](https://img.shields.io/badge/Gerrit-Code_Review-EE0000?style=for-the-badge&logo=gerrit&logoColor=white)
+![Gerrit](https://img.shields.io/badge/Gerrit-EE0000?style=for-the-badge&logo=gerrit&logoColor=white)
 ![Artifactory](https://img.shields.io/badge/Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto_Project-76B900?style=for-the-badge&logo=yocto&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
