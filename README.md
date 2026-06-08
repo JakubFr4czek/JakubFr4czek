@@ -36,6 +36,7 @@ Developement tools I have a good understanding of and use on regular basis inclu
 
 ### Methodologies
 I have experience working in Agile environments, including Scrum and Kanban.
+
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
