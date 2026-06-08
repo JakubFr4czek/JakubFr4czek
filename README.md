@@ -38,9 +38,16 @@ Development tools providing AI assistance that I am familiar with include Github
 ![Cursor](https://img.shields.io/badge/Cursor-AI%20Editor-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Embedded Systems 
-I have lots of experience working with RaspberryPi from different projects on a span of many years.
+I have lots of experience working with RaspberryPi as well as Arduino from different projects on a span of many years.
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+#### Projects
+One of the projects that I am particularly proud of is a truck driving simulator called "Ekonomik Roadster" based on Arduino.
+It was built using real parts taken from a BMW E36. You can find more information here:
+![Ekonomik Roadster demonstration](https://www.youtube.com/watch?v=ISzCpdcXRQk)
+![Ekonomik Roadster repository](https://github.com/JakubFr4czek/Roadster)
 
 ### Game Engines
 For my personal projects I worked with Unity and Godot engines.
@@ -48,22 +55,22 @@ For my personal projects I worked with Unity and Godot engines.
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-#### Game I made using Unity Engine
+#### Game made using Unity Engine
 A small personal project built while trying mobile developement Unity.
 
- - [Youtube video](https://www.youtube.com/watch?v=HnFu3wmb70Y)
+ - [TicTacToe](https://www.youtube.com/watch?v=HnFu3wmb70Y)
 
-#### Games I made using Godot Engine
+#### Games made using Godot Engine
 Some games made for Game Jams.
 
  - [Crazy Lumberjack](https://fraczek.itch.io/crazy-lumberjack)
  - [Potionist](https://fraczek.itch.io/potionist)
 
-## How to reach me 📫
+## How to reach me
+Feel free to explore my repositories and don't hesitate to reach out.
 
 - [Linkedin]([https://www.linkedin.com/in/jakub-fr%C4%85czek-758197252/](https://www.linkedin.com/in/jakub-mateusz-fraczek/))
 
-Feel free to explore my repositories and don't hesitate to reach out. Let's collaborate and create amazing things together! 🌟
 
 <!--
 **JakubFr4czek/JakubFr4czek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
